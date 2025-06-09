@@ -12,7 +12,7 @@ import {
 import { useState, useEffect } from "react";
 import UserManagement from  "./UserManagement";
 import BookManagement from "./BookManagement"
-import ClienteManagement from "./ClienteManagement"
+import ClienteManagement from  "./ClienteManagement"
 import LoanManagement from "./LoanManagement";
 
 function Dashboard({ user, onLogout }) {
